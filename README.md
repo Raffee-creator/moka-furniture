@@ -6,7 +6,7 @@ Moka is a premium e-commerce experience built with **Next.js 15**, focused on hi
 
 ## 🎨 Design Meets Function
 
-![Moka Platform Overview](/public/assets/moka-overview.png)
+![Moka Platform Overview](./public/Assets/moka-overview.png)
 > *A stylized visual overview of the Moka interface: The editorial Hero, the reactive Shopping Bag (Zustand), the 'Hot Toast' notification, and the artisan profiles ('Meet the Makers').*
 
 ---
