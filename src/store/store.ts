@@ -1,5 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
-import cartReducer from './cartSlice'; // Remove the @/ and use ./
+// Change this line to use a dot (.)
+import cartReducer from './cartSlice'; 
 
 export const store = configureStore({
   reducer: {
